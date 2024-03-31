@@ -6,5 +6,5 @@
 	- Stable Diffusionで生成した画像・イラストから背景のみを切り抜いて、背景なしにしたい
 	- Stable Diffusionで生成した画像・イラストの背景を透過させたり単色(一色)や無地にしたい
 	- Stable Diffusionで背景のみの画像を出力するプロンプトを知りたい！
-- (完了)~~ABG_extension, rembg, sd_katanuki~~
+- (完了)~~ABG_extension, rembg, sd_katanuki~~  
   → stable diffusionのはあんまりいけてなかった。ABGだけしか使ってないけど。
